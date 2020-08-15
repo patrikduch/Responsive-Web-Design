@@ -1,0 +1,274 @@
+
+> welcome@0.1.0 start /srv/app
+> /opt/node/bin/node app.js
+
+Server running at http://127.0.0.1:8080/
+
+> graphql-backend-template@1.0.0 start /srv/app
+> /opt/node/bin/node server.js
+
+
+> graphql-backend-template@1.0.0 start /srv/app
+> /opt/node/bin/node server.js
+
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_36_13_024Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_36_14_275Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_36_16_514Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_36_19_771Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_20_781Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_22_029Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_24_264Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_27_500Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_42_235Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_43_495Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_45_733Z-debug.log
+npm ERR! path /srv/app/package.json
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open '/srv/app/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /srv/.npm/_logs/2020-08-14T20_41_48_992Z-debug.log
+
+> graphql-backend-template@1.0.0 start /srv/app
+> /opt/node/bin/node server.js
+
+
+> responsive-web-design@1.0.0 start /srv/app
+> /opt/node/bin/node server.js
+
+Listening on port 8080
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
+Error: Failed to lookup view "/srv/app/src/views/index.html" in views directory "/srv/app/views"
+    at Function.render (/srv/app/server.js:2:366585)
+    at ServerResponse.render (/srv/app/server.js:2:442473)
+    at /srv/app/server.js:2:447868
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at next (/srv/app/server.js:2:86394)
+    at Route.dispatch (/srv/app/server.js:2:86419)
+    at Layer.handle [as handle_request] (/srv/app/server.js:2:87933)
+    at /srv/app/server.js:2:83102
+    at Function.process_params (/srv/app/server.js:2:84081)
+    at next (/srv/app/server.js:2:83042)
