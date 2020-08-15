@@ -48,4 +48,24 @@ body {
   padding-top: 5.5vh;
 }
 
+.page-content-container {
+  padding-top: 0.5vh;
+  padding-bottom: 2.5vh;
+  padding-bottom: 75vh;
+}
 
+.page-content-container h3 {
+  margin-top: 2.5vh;
+  margin-bottom: 1.5vh;
+}
+
+
+h2 {
+  font-size: 1.1em;
+}
+
+.navbar {
+  box-shadow: 2px 2px 5px gray;
+  opacity: 0.9;
+  background: #fff;
+}

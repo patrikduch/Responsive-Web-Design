@@ -22,15 +22,6 @@ Responzivní webová aplikace s použití frameworku Bootstrap
 
 Webové stránky budou obsahovat tyto součásti:
 
-
-vlastní komplexní formulář - viz níže
-tabulku s alespoň 50 záznamy vytvořenou na základě komponenty DataTable
-- https://datatables.net/examples/styling/bootstrap4 (přizpůsobenou pro
-Bootstrap verze  4) spolu se stránkováním, řazením a vyhledáváním -
-prezentované ve Video MediaSite 16 - pokročilá práce s tabulkou,
-integrace řazení dat, filtrování a stránkování URL, kapitola Postup
-tvorby responzivního webu ve frameworku Bootstrap
-
 několik odkazů a tlačítek s použitím různých stylů - sekce Documentation
 - Components - Buttons, využití ikon v položkách menu nebo u tlačítek -
 Documentation - Extend - Icons 
