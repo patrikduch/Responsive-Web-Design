@@ -22,16 +22,6 @@ Responzivní webová aplikace s použití frameworku Bootstrap
 
 Webové stránky budou obsahovat tyto součásti:
 
-logo, případně vhodně nastylovaný textový název projektu v horní části
-stránky
-5 - 7 položek menu odkazujících na jednotlivé funkční stránky s reálným
-obsahem (textovým, případně i vizuálním)
-vhodné použití a umístění (nejlépe pod logem a menu, jinak vhodně v horní
-části stránky) komponenty Carousel se zobrazením několika rotujících
-obrázků, případně spolu s textovým sdělením zobrazeným přes tyto
-obrázky - Documentation - Components - Carousel
-drobečkovou navigaci, např. Úvod - O nás, apod.
-
 
 vlastní komplexní formulář - viz níže
 tabulku s alespoň 50 záznamy vytvořenou na základě komponenty DataTable
@@ -48,16 +38,13 @@ Documentation - Extend - Icons
 zobrazení tzv. modálního okna se zobrazením detailních informací
 libovolného typu - Documentation - Components - Modal
 
-zobrazení alespoň 3 záložek s libovolným obsahem a zobrazením obsahu
-záložky po kliknutí - Documentation - Components - Navs - Tabs
-libovolné další komponenty nebo součásti, které používáte při tvorbě
-webových stránek
 
 Součástí komplexního responzivního formuláře bude:
 
 ve formuláři bude celkem minimálně 10 formulářových polí
-využijte alespoň 1x ve formuláři formulářové pole: input typu text,
-input typu radio, input typu checkbox, výběr hodnot pomocí elementu
+
+využijte alespoň 1x ve formuláři formulářové pole:
+ výběr hodnot pomocí elementu
 select (hodnoty v elementech option), textarea
 v dolní části formuláře bude tlačítko Uložit
 využijte tipy a způsob rozložení formulářových polí dostupné v sekcích
