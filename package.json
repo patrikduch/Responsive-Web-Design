@@ -1,7 +1,7 @@
 {
   "name": "responsive-web-design",
   "version": "1.0.0",
-  "description": "School project for subject ''",
+  "description": "School project for subject '7REWB'",
   "author": "Patrik Duch <duchpatrik@icloud.com>",
   "scripts": {
     "start": "/opt/node/bin/node server.js",
